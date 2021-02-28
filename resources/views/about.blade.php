@@ -9,8 +9,13 @@
 @endsection
 
 @section('content')
+<<<<<<< HEAD
      <!-- Page Content -->
      <div class="page-heading about-heading header-text">
+=======
+            <!-- Page Content -->
+    <div class="page-heading about-heading header-text">
+>>>>>>> 37ecc46a2f3bf7f20ffda947ab8c99996504e3a6
         <div class="container">
           <div class="row">
             <div class="col-md-12">

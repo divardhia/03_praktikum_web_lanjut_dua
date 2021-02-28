@@ -9,11 +9,19 @@
 @endsection
 
 @section('content')
+<<<<<<< HEAD
     <!-- Page Content -->
     <!-- Banner Starts Here -->
     <div class="banner header-text">
         <div class="owl-banner owl-carousel">
           <div class="banner-item-01">
+=======
+        <!-- Page Content -->
+        <!-- Banner Starts Here -->
+        <div class="banner header-text">
+            <div class="owl-banner owl-carousel">
+                <div class="banner-item-01">
+>>>>>>> 37ecc46a2f3bf7f20ffda947ab8c99996504e3a6
             <div class="text-content">
               <h4>Best Offer</h4>
               <h2>New Arrivals On Sale</h2>

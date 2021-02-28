@@ -2,7 +2,10 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PageController;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 37ecc46a2f3bf7f20ffda947ab8c99996504e3a6
 
 /*
 |--------------------------------------------------------------------------
@@ -15,6 +18,13 @@ use App\Http\Controllers\PageController;
 |
 */
 
+<<<<<<< HEAD
+=======
+Route::get('/', function () {
+    return view('welcome');
+});
+
+>>>>>>> 37ecc46a2f3bf7f20ffda947ab8c99996504e3a6
 Route::get('/', [PageController::class, 'home']);
 Route::get('/product', [PageController::class, 'product']);
 Route::get('/about', [PageController::class, 'about']);
